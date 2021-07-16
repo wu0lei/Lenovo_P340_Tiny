@@ -2,7 +2,7 @@
 
 本人配置：
 
-OpenCore：0.69
+OpenCore：0.70
 
 CPU:i9-10900
 
