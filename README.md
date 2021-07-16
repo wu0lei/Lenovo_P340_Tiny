@@ -4,6 +4,10 @@
 
 OpenCore：0.70
 
+SystemProductName：iMac20,2
+
+使用时需手动加入三码
+
 CPU:i9-10900
 
 内存：32GB 2666
