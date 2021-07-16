@@ -1,0 +1,1 @@
+# Lenovo_P340_Tiny
