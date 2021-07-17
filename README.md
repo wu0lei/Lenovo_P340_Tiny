@@ -4,6 +4,8 @@
 
 OpenCore：0.70
 
+macOS Big Sur 11.4 (20F71)
+
 SystemProductName：iMac20,2
 
 使用时需手动加入三码
