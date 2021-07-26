@@ -2,7 +2,7 @@
 
 本人配置：
 
-OpenCore：0.70
+OpenCore：0.7.0
 
 macOS Big Sur 11.4 (20F71)
 
