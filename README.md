@@ -2,9 +2,9 @@
 
 本人配置：
 
-OpenCore：0.7.0
+OpenCore：0.7.2
 
-macOS Big Sur 11.4 (20F71)
+macOS Big Sur 11.5.2
 
 SystemProductName：iMac20,2
 
@@ -14,11 +14,13 @@ CPU:i9-10900
 
 内存：32GB 2666
 
-SSD:760p 256GB970&EVO Plus 2TB
+SSD:760p 256GB 970&EVO Plus 2TB
 
-核显：UHD630
+显卡：AMD RX460
 
 无线网卡：intel AX201
+
+蓝牙：intel AX201
 
 内置了启动音频及图形界面。
 
@@ -26,5 +28,5 @@ SSD:760p 256GB970&EVO Plus 2TB
 自己之前从未了解过OpenCore，于是从零开始找教程摸索配置EFI，收获还是有的，目前还在不断完善中
 供网友参考，如果问题还希望一起研究。
 
-目前能实现了核显板载的HDMI及DP（DP原生就支持）的音视频输出。
-未完成问题：AX201蓝牙设备在P340tiny上不识别，无法正常使用，始终无法发现蓝牙硬件，不知道是哪里的问题。
+本人机器已经更换未免驱A卡RX460。
+使用了Z大的最新intel驱动，目前AX201的蓝牙可用，可连接Airpods，隔空目前是不能使用的
